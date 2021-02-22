@@ -1,5 +1,6 @@
-# 제 5회 한림 광고홍보학과 축제 HAF - 홍보 웹사이트 제작
-## Hallym ADPR HAF project
+## 제 5회 한림 광고홍보학과 축제 - HAF
+### 홍보 웹사이트 제작
+### Hallym ADPR HAF project
 
 [\[HAF 홍보 영상\]](https://www.youtube.com/watch?v=iMfG023cFnk)<br><br>
 
